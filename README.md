@@ -23,7 +23,7 @@ Make sure to checkout out to the logging branch with this command:
 git checkout logging
 ```
 
-Follow the instructions in the Government-APIs repository in order to run the app.
+Follow the [instructions](https://github.com/WorldClassProgrammers/Government-APIs/blob/master/README.md) in the Government-APIs repository in order to run the app.
 
 
 ### Clone and Run the wcg-api-test
