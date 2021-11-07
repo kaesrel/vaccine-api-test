@@ -1,16 +1,36 @@
 # WCG API TEST
 
-### Instructions:
+## Instructions:
 
 The test is usable only for the logging branch version of the WCG project, since it is much more stable than the current WCG master branch version.
 
-Clone the `logging` branch from the [wcg repository](https://github.com/WorldClassProgrammers/Government-APIs)
 
-Follow the instructions in the WCG repository in order to run the app.
+### Clone the Government-APIs repository
 
-
-After finishing the instruction, clone this repository.
+Clone the [Government-APIs repository](https://github.com/WorldClassProgrammers/Government-APIs)
 ```
+git clone https://github.com/WorldClassProgrammers/Government-APIs.git
+```
+
+
+Go into the Government-APIs repository:
+```
+cd Government-APIs
+```
+
+Make sure to checkout out to the logging branch with this command:
+```
+git checkout logging
+```
+
+Follow the instructions in the Government-APIs repository in order to run the app.
+
+
+### Clone and Run the wcg-api-test
+
+After finishing the instruction, go out of the Government-APIs directory, then clone this repository.
+```
+cd ..
 git clone https://github.com/kaesrel/wcg-api-test.git
 ```
 
